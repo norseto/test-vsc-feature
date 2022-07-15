@@ -38,9 +38,10 @@
 	"features": {
 		"docker-from-docker": {},
 		"kubectl-helm-minikube": {},
+		"terraform": {},
 		"norseto/vsc-feature/kubernetes": {
 			"istioctl": "latest",
-			"kustomize": "latest",
+			"kustomize": "latest"
 		},
 		"norseto/vsc-feature/container-structure-test": {},
 		"norseto/vsc-feature/gomplate": {},
@@ -54,5 +55,6 @@
 		"norseto/vsc-feature/envoy": {},
 		"norseto/vsc-feature/waypoint": {},
 		"norseto/vsc-feature/ko": {},
+		"norseto/vsc-feature/terraform-tools": {}
 	}
 }
