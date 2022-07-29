@@ -55,6 +55,9 @@
 		"norseto/vsc-feature/envoy": {},
 		"norseto/vsc-feature/waypoint": {},
 		"norseto/vsc-feature/ko": {},
-		"norseto/vsc-feature/terraform-tools": {}
+		"norseto/vsc-feature/terraform-tools": {},
+		"norseto/vsc-feature/terraformer": {
+			"provider": "aws"
+		}
 	}
 }
