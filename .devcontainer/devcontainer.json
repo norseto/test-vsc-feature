@@ -37,11 +37,14 @@
 
 	"features": {
 		"docker-from-docker": {},
-		"kubectl-helm-minikube": {},
+		"kubectl-helm-minikube": {
+			"minikube": "none"
+		},
 		"terraform": {},
 		"norseto/vsc-feature/kubernetes": {
 			"istioctl": "latest",
-			"kustomize": "latest"
+			"kustomize": "latest",
+			"kpt": "latest"
 		},
 		"norseto/vsc-feature/container-structure-test": {},
 		"norseto/vsc-feature/gomplate": {},
